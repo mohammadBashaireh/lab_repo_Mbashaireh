@@ -12,4 +12,9 @@ The concept of a growth mindset is a popular topic lately, and I sometimes say t
 
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
+## as a reminder for me to keep myself in a grouth mindset this is what i do:
+1. smile 
+2. be positive 
+3. and meditate from time to time
+
 ### if you want to learn more about Growth mindset. click [HERE](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
