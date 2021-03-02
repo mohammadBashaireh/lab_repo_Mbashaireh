@@ -1,36 +1,15 @@
 ### lab_repo_Mohammad_bashaireh
 
-# Markdown
+# growth mindset
 
-![never](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+![never](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 
-on first of what you need to know is that markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
+The **growth mindset** can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 
-markdown is a way to style text on the web. and you can do a lot of styling with markdown such as: formatting words as bold and italic, adding images, adding links..... etc.
+The concept of a growth mindset is a popular topic lately, and I sometimes say to myself *“Self, you need to embrace the growth mindset. The growth mindset is cool.”*
 
-and of Corse you cane use markdown most places around GitHub:
+## What is a growth mindset?
 
-Gists (Links to an external site.)
-Comments in Issues and Pull Requests
-Files with the .md or .markdown extension
-the key to use markdown styling is by symbols, and it is impressive what you can do with just symbols like: (#,*/-,[],.....) and even adding images also links and sometimes both.
+A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
-and for example here are a few:
-
-1. # This is an h1 tag
-2. ## This is an h2 tag
-3. ###### This is an h6 tag
-  
-  * *This text will be italic* 
-* _This will also be italic_
-
-**This text will be bold**
-
-__This will also be bold__
-
-_You **can** combine them_
-
-
-
-
-
+### if you want to learn more about Growth mindset. click [HERE](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
